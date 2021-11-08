@@ -10,8 +10,8 @@ A project to create animated Pac-Men. The project uses a button to create a Pac-
 Download the files that are in the Pac-Men Factory Exercise directory. Open a new tab in your browser window. Drag and drop the index.html file onto the new tab. The game will appear in your browser. Click on the "Add PacMan" button and "Start Game" Button to begin.
 
 #### Future improvements
-Include button to add ghost
-Add programing to avoid collision between Pac-Men
+- Include button to add ghost
+-Add programing to avoid collision between Pac-Men
 
 #### MIT License
 Copyright (c) 2021 MIT
