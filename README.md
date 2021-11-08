@@ -11,7 +11,7 @@ Download the files that are in the Pac-Men Factory Exercise directory. Open a ne
 
 #### Future improvements
 - Include button to add ghost
--Add programing to avoid collision between Pac-Men
+- Add programing to avoid collision between Pac-Men
 
 #### MIT License
 Copyright (c) 2021 MIT
